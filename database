@@ -1,6 +1,6 @@
 {
   "ids": {
-    "author": 6,
+    "author": 10,
     "book": 2
   },
   "models": {
@@ -9,7 +9,11 @@
       "2": "{\"firstName\":\"Gustavo\",\"lastName\":\"Lima\",\"id\":2}",
       "3": "{\"firstName\":\"Sergio\",\"lastName\":\"Reis\",\"id\":3}",
       "4": "{\"firstName\":\"Raus\",\"lastName\":\"Seixas\",\"id\":4}",
-      "5": "{\"firstName\":\"João\",\"lastName\":\"Donato\",\"id\":5}"
+      "5": "{\"firstName\":\"João\",\"lastName\":\"Donato\",\"id\":5}",
+      "6": "{\"firstName\":\"Sergio\",\"lastName\":\"Reis\",\"id\":6}",
+      "7": "{\"firstName\":\"Raus\",\"lastName\":\"Seixas\",\"id\":7}",
+      "8": "{\"firstName\":\"Sergio\",\"lastName\":\"Reis\",\"id\":8}",
+      "9": "{\"firstName\":\"Raus\",\"lastName\":\"Seixas\",\"id\":9}"
     },
     "book": {
       "1": "{\"title\":\"Livro 01\",\"authorId\":1,\"id\":1}"
